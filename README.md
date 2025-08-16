@@ -49,7 +49,7 @@ This project is a comprehensive platform for uploading CSV data, generating AI-d
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/joker45op/tea-insights.git
+   git clone https://github.com/prem-d-25/tea-insights.git
    cd tea-insights
    ```
 
